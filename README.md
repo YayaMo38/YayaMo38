@@ -3,6 +3,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Hey%20%F0%9F%91%8BWhat's%20Up?&fontSize=50&fontColor=0FF5C0&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=1FB0F7&center=true&vCenter=true&width=449&height=66&lines=%F0%9F%91%8B+Hi%2C+I'm+Yahya+Mohammed;%F0%9F%8E%AF+Mobile+App+Developer+" alt="Typing SVG" /></a>
 
 ###
@@ -31,17 +32,21 @@
 
 ###
 
+<img align="right" height="400" src="https://www.mellodigital.com.au/wp-content/uploads/2023/04/mobile_app_developer_sydney.gif"  />
+
+###
+
+<img align="left" height="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+
+###
+
 <br clear="both">
 
 <h2 align="left">Dev Tools 🛠️ programming languages</h2>
 
 ###
 
-<img align="right" height="330" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-
-###
-
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
@@ -67,9 +72,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Contact📞</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="http://linkedin.com/in/yahya-mohammed38" target="_blank">
@@ -85,8 +94,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YayaMo38/YayaMo38/output/pacman-contribution-graph-dark.svg">
@@ -104,6 +111,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/YayaMo38/YayaMo38/output/snake.svg" alt="Snake animation" />
 
